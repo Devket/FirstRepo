@@ -4,5 +4,5 @@ Fin account past 3 landing page changes and 1 page design : 9 hours
 
 Contact form validation and other minor changes : 1 hours
 
-HQ site footer and iframe code page : 1.5 hour
+HQ site footer and iframe code page : 1.5 hours
 
